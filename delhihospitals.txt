@@ -1,0 +1,49 @@
+Lok Nayank Hospital	Government	Dedicated COVID Hospital
+Rajiv Gandhi Super Speciality Hospital	Government	Dedicated COVID Hospital
+AIIMS, Delhi	Government	Dedicated COVID Hospital
+Safdarjung Hospital	Government	Dedicated COVID Hospital
+Dr. Ram Manohar Lohia Hospital	Government	Dedicated COVID Hospital
+Lady Hardinge Medical College	Government	Dedicated COVID Hospital
+Max Super Speciality Hospital, Saket	Private	Dedicated COVID Hospital
+Indraprastha Apollo Hospital	Private	Dedicated COVID Hospital
+Sir Ganga Ram Kolmet Hospital	Private	Dedicated COVID Hospital
+Mahadurga Charitable Trust	Private	Dedicated COVID Hospital
+Fortis Hospital, Shalimar Bagh	Private	Dedicated COVID Hospital
+Saroj Medical Institute	Private	Dedicated COVID Hospital
+Khushi Hospital	Private	Dedicated COVID Hospital
+SBV Deen Dayal Upadhyay Marg, Rouse Avenue	Government	COVID Care Center
+YMCA Tourist Hostel, Jai Singh Marg, New Delhi	Private	COVID Care Center
+SKV School, Pusa Road	Government	COVID Care Center
+Birla Mandir Dharamshala	Private	COVID Care Center
+DDA Flats, Narela	Government	COVID Care Center
+Police Training School, Wazirabad	Government	COVID Care Center
+DUSIB Flats, Sultanpuri	Government	COVID Care Center
+Mandoli Jail	Government	COVID Care Center
+Ginger Hotel, East Delhi	Private	COVID Care Center
+Terapanth Bhavan, Chattarpur	Private	COVID Care Center
+Veer Chander Singh Garhwal SBV, J Block Saket	Government	COVID Care Center
+GBSSS No.3 Badarpur	Government	COVID Care Center
+Railway 1 (Diesel Shed)	Government	COVID Care Center
+Railway 2 (RPF)	Government	COVID Care Center
+GGSS School, Jogabai NFC	Government	COVID Care Center
+Chandra Shekhar Azad School NFC	Government	COVID Care Center
+PTS Dwarka Sec 9	Government	COVID Care Center
+DUSIB Dwarka Sec 16	Government	COVID Care Center
+Bakkarwala Flats	-	COVID Care Center
+Janaki Das Kapoor Memorial Hospital	Private	COVID Care Center
+Tibbia College	Government	COVID Health Center
+Chaudhary Brahma Prakash Ayurvedik Charak Sansthan	Government	COVID Health Center
+Nehru Homeopathic Medical College and Hospital	Government	COVID Health Center
+Lok Nayank Hospital	Government	COVID Health Center
+Rajiv Gandhi Super Speciality Hospital	Government	COVID Health Center
+AIIMS, Delhi	Government	COVID Health Center
+Safdarjung Hospital	Government	COVID Health Center
+Dr. Ram Manohar Lohia Hospital	Government	COVID Health Center
+Lady Hardinge Medical College	Government	COVID Health Center
+Max Super Speciality Hospital, Saket	Private	COVID Health Center
+Indraprastha Apollo Hospital	Private	COVID Health Center
+Sir Ganga Ram Kolmet Hospital	Private	COVID Health Center
+Mahadurga Charitable Trust	Private	COVID Health Center
+Fortis Hospital, Shalimar Bagh	Private	COVID Health Center
+Saroj Medical Institute	Private	COVID Health Center
+Khushi Hospital	Private	COVID Health Center
